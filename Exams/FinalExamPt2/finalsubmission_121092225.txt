@@ -1,0 +1,26 @@
+**************************************
+Student Number: 121092225
+First Name: John
+Last Name: Niagwan
+Email: jniagwan@myseneca.ca
+Academic integrity confirmation: Y
+Time: 2023-12-03 23:30:55.213431
+I understand, that I still have to meet the blackbord submission timeline to get credit for my work
+Computer Name: Johns-MacBook-Pro-2.local
+IP Address: 127.0.0.1
+Result File Hash: 02e1a74ad94bf0af2f5321cfe3679a581d866e26fd264bc17248068a7cf9caea
+**************************************
+
+
+**************************************
+**************************************
+Percentage Difference 0.0
+**************************************
+**************************************
+
+
+**************************************
+**************************************
+Points Earned: 15
+**************************************
+**************************************

@@ -1,0 +1,14 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-09-22 00:26:26.924699
+INFO:root:lab4a.py: test successful.
+INFO:root:lab4a.py 8abf08a0330315734c53902233644658
+INFO:root:done.
+INFO:root:lab4b.py: test successful.
+INFO:root:lab4b.py 3e2f272b15ff2e13d3e9a86c62ca36c1
+INFO:root:done.
+INFO:root:lab4c.py: test successful.
+INFO:root:lab4c.py 2a5dcd48d69311cad3a9662dcf1220ac
+INFO:root:done.
+INFO:root:challenge4.py: test successful.
+INFO:root:challenge4.py be4b7a2cc9867b9c79755d406afe3c18
+INFO:root:done.

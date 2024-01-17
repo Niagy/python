@@ -1,0 +1,110 @@
+niagy@Johns-MacBook-Pro MidTerm % python3 midtermprg600.py
+Enter the number of players: Four
+Invalid input please try again.
+Enter the number of players: 4
+Please enter player #1 name: Appla
+Please enter player #2 name: Applb
+Please enter player #3 name: Applc
+Please enter player #4 name: Appld
+Please enter how many rounds the players wish to play: Three
+Invalid input please try again
+Please enter how many rounds the players wish to play: 3
+****************** Round 1 ******************
+     Round 1 Round 2 Round 3 Total
+Appla     0      0      0      0      
+Applb     0      0      0      0      
+Applc     0      0      0      0      
+Appld     0      0      0      0      
+****************************************
+Appla! Hit enter once you are ready to roll your dices!
+6 and 3
+Applb! Hit enter once you are ready to roll your dices!
+2 and 4
+Applc! Hit enter once you are ready to roll your dices!
+4 and 6
+Appld! Hit enter once you are ready to roll your dices!
+2 and 1
+****************** End of Round 1 ******************
+     Round 1 Round 2 Round 3 Total
+Appla     9      0      0      9      
+Applb     6      0      0      6      
+Applc     10     0      0      10     
+Appld     3      0      0      3      
+****************************************
+Appla! Hit enter once you are ready to roll your dices!
+6 and 1
+Applb! Hit enter once you are ready to roll your dices!
+6 and 3
+Applc! Hit enter once you are ready to roll your dices!
+1 and 5
+Appld! Hit enter once you are ready to roll your dices!
+2 and 5
+****************** End of Round 2 ******************
+     Round 1 Round 2 Round 3 Total
+Appla     9      7      0      16     
+Applb     6      9      0      15     
+Applc     10     6      0      16     
+Appld     3      7      0      10     
+****************************************
+Appla! Hit enter once you are ready to roll your dices!
+1 and 6
+Applb! Hit enter once you are ready to roll your dices!
+2 and 6
+Applc! Hit enter once you are ready to roll your dices!
+1 and 5
+Appld! Hit enter once you are ready to roll your dices!
+6 and 3
+***************** End of Round 3 *****************
+     Round 1 Round 2 Round 3 Total
+Appla     9      7      7      23     
+Applb     6      9      8      23     
+Applc     10     6      6      22     
+Appld     3      7      9      19     
+***************************************
+Congratulation Appla,Applb! You are our WINNER!
+Do you want to play another game?
+[1]Yes
+[2]No
+Your Choice:1
+Enter the number of players: 3
+Please enter player #1 name: Oranga
+Please enter player #2 name: Orangb
+Please enter player #3 name: Orangc
+Please enter how many rounds the players wish to play: 2
+****************** Round 1 ******************
+     Round 1 Round 2 Total
+Oranga    0      0      0      
+Orangb    0      0      0      
+Orangc    0      0      0      
+*********************************
+Oranga! Hit enter once you are ready to roll your dices!
+2 and 5
+Orangb! Hit enter once you are ready to roll your dices!
+5 and 6
+Orangc! Hit enter once you are ready to roll your dices!
+4 and 2
+****************** End of Round 1 ******************
+     Round 1 Round 2 Total
+Oranga    7      0      7      
+Orangb    11     0      11     
+Orangc    6      0      6      
+*********************************
+Oranga! Hit enter once you are ready to roll your dices!
+5 and 6
+Orangb! Hit enter once you are ready to roll your dices!
+3 and 6
+Orangc! Hit enter once you are ready to roll your dices!
+5 and 5
+***************** End of Round 2 *****************
+     Round 1 Round 2 Total
+Oranga    7      11     18     
+Orangb    11     9      20     
+Orangc    6      10     16     
+********************************
+Congratulation Orangb! You are our WINNER!
+Do you want to play another game?
+[1]Yes
+[2]No
+Your Choice:2
+Thanks for playing!
+niagy@Johns-MacBook-Pro MidTerm % 

@@ -1,0 +1,37 @@
+niagy@Johns-MacBook-Pro-2 FinalExamPt2 %  cd /Users/niagy/Desktop/SenecaBTT/PRG600/Exams/FinalExamPt2 ; /usr/bin/env /usr/local/bin/py
+thon3 /Users/niagy/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60706 -
+- /Users/niagy/Desktop/SenecaBTT/PRG600/Exams/FinalExamPt2/final_121092225.py 
+Initializing a 3X3 TicTacToe
+What is the name of the player 1: John
+What is the name of the player 2: Kos
+|1|2|3|
+|4|5|6|
+|7|8|9|
+John Enter the number to play your symbol X (Available Numbers 1,2,3,4,5,6,7,8,9): 5
+|1|2|3|
+|4|X|6|
+|7|8|9|
+Kos Enter the number to play your symbol O (Available Numbers 1,2,3,4,6,7,8,9): 5
+Number already played, choose a different number from available numbers. (Available Numbers %s) 1,2,3,4,6,7,8,9
+Kos Enter the number to play your symbol O (Available Numbers 1,2,3,4,6,7,8,9): 1
+|O|2|3|
+|4|X|6|
+|7|8|9|
+John Enter the number to play your symbol X (Available Numbers 2,3,4,6,7,8,9): 2
+|O|X|3|
+|4|X|6|
+|7|8|9|
+Kos Enter the number to play your symbol O (Available Numbers 3,4,6,7,8,9): 4
+|O|X|3|
+|O|X|6|
+|7|8|9|
+John Enter the number to play your symbol X (Available Numbers 3,6,7,8,9): 7
+|O|X|3|
+|O|X|6|
+|X|8|9|
+Kos Enter the number to play your symbol O (Available Numbers 3,6,8,9): 8
+|O|X|3|
+|O|X|6|
+|X|O|9|
+John Enter the number to play your symbol X (Available Numbers 3,6,9): 3
+Player John is the winner

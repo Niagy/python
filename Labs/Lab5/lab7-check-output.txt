@@ -1,0 +1,17 @@
+INFO:root:/Users/niagy/Desktop/SenecaBTT/PRG600/Labs/Lab5/check-lab7.py 7dd52ec7a5645c44808cd8ff059ef866
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-10 18:25:23.099130
+INFO:root:lab7a.py: test successful.
+INFO:root:lab7a.py 12a4e34e742171a92a68af3c0b5c42ee
+INFO:root:done.
+INFO:root:lab7b.py: test successful.
+INFO:root:lab7b.py 33855e2e053fc13174699a51228fc0c7
+INFO:root:done.
+INFO:root:lab7c.py: test successful.
+INFO:root:lab7c.py 952942e925679fb23a71ae74399a4442
+INFO:root:done.
+WARNING:root:lab7d.py: Failures encountered.
+INFO:root:done.
+INFO:root:challenge7.py: test successful.
+INFO:root:challenge7.py 748ec43e93190b168ae8f022868d7b88
+INFO:root:done.

@@ -1,0 +1,9 @@
+1. The student’s name? String
+
+2. The number of students in a class? Integer
+
+3. The student’s grade (as a percent)? Float
+
+4. The student’s nine-digit ID number? String
+
+5. The total amount of tuitions paid by the student (in Canadian dollars)? Float

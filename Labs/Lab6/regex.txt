@@ -1,0 +1,38 @@
+Regex : 
+A date in YYYY-MM-DD format. 
+\d{4}-(0\d|1[0-2])-([0-2]\d|3[01])
+
+A time in HH:MM:SS format.
+(?:[01]\d|2[0-3]):[0-5]\d:[0-5]\d
+
+Any word that begins with a lower case ‘a’.
+\b[a]\w*\b
+
+Any number that’s between 1000 and 99999. (exclude longer numbers!) 
+\b[0-9]?[0-9]?[0-9]?[0-9]?[0-9]?\b
+
+Any three-letter word that ends in ‘e’.
+\b[e][a-z][a-z]\b
+
+Python variable names should start with an alphabetical letter but lower case only. 
+Python variable names can include lower case letters, numbers and underscores. 
+Python variable names should be descriptive, but not too long as to be awkward. So we 
+can assume that a good variable name can be anywhere between 3 and 16 characters 
+long.
+^[a-z][a-z0-9_]{3,15}
+
+Test String: 
+1999-12-31
+23:56:56
+apple
+1001
+eye
+a_565
+
+Failed String:
+1999-13-31
+23:66:56
+qpple
+100133
+eyes
+B_565

@@ -1,0 +1,18 @@
+INFO:root:/Users/niagy/Desktop/SenecaBTT/PRG600/Labs/Lab6/check-lab8.py 2e3a62abaa0d41d3e7f27498be1297ab
+INFO:root:logging test
+INFO:root:Test Run: 2023-11-24 15:02:57.233901
+INFO:root:lab8a.py: test successful.
+INFO:root:lab8a.py a9ce0960ec0bbc1e5b481f8122974572
+INFO:root:done.
+INFO:root:lab8b.py: test successful.
+INFO:root:lab8b.py fa5dcfeeed9df0f7f6a58de29a6b537c
+INFO:root:done.
+INFO:root:lab8c.py: test successful.
+INFO:root:lab8c.py 0615f73ef388d4913d6b30dbd0a7faac
+INFO:root:done.
+INFO:root:lab8d.py: test successful.
+INFO:root:lab8d.py 44759deaf2c22c4eba7900f66649b1e7
+INFO:root:done.
+INFO:root:lab8e.py: test successful.
+INFO:root:lab8e.py 78c936b95fb51b4bf2a287e13d94435c
+INFO:root:done.

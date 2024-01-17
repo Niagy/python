@@ -1,0 +1,26 @@
+**************************************
+Student Number: y
+First Name: y
+Last Name: y
+Email: y
+Academic integrity confirmation: Y
+Time: 2023-12-04 18:04:54.650989
+I understand, that I still have to meet the blackbord submission timeline to get credit for my work
+Computer Name: Johns-MacBook-Pro-2.local
+IP Address: 127.0.0.1
+Result File Hash: 872dc92e272e676e19a046c2c49c2547531c643470577a305e2593bf18be6843
+**************************************
+
+
+**************************************
+**************************************
+Percentage Difference 8.064516129032258
+**************************************
+**************************************
+
+
+**************************************
+**************************************
+Points Earned: 11
+**************************************
+**************************************
